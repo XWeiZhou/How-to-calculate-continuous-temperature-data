@@ -1,16 +1,4 @@
 # How-to-calculate-continuous-temperature-data
----
-title: "How to calculate continuous temperature data"
-author: "David Zhou"
-date: "2021-2-5"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 4
-  pdf_document:
-    toc: yes
-    toc_depth: 4
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
