@@ -74,6 +74,7 @@ p1 <- ggplot(data_with_warming_40, aes(x=TIMESTAMP, y=Temperature, fill=treatmen
   xlab(paste("Date"))+                 #x,y轴坐标轴加标题
   ylab(expression(paste("Temperature (",degree,"C)")))+theme
 p1
+![Image text](https://github.com/XWeiZhou/Data-analysis/blob/master/How%20to%20calculate%20continuous%20temperature%20data/IMG/The%20first%20graph.png)
 ```
 
 #### Drawing the second graph
